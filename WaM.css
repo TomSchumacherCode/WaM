@@ -1,0 +1,64 @@
+.text-center {
+text-align: center;
+}
+
+.text-size {
+    font-size: 24px;
+}
+
+.just-cent {
+    justify-content: center;
+}
+
+.just-space-b {
+    justify-content: space-between;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-b {
+flex-basis: flex;
+}
+
+.moleHoles {
+    flex-basis: calc((100% / 3) - 12px);
+    text-align: center;
+    height: 25vh;
+    border-radius: 50%;
+    background-color: gray;
+    border: 2px, solid, black;
+    margin: 3px;
+
+}
+
+.moles {
+    background-color: rgb(122, 55, 17);
+}
+
+.startbutton {
+    width: 33%;
+    height: 25px;
+
+}
+
+.score-counter {
+
+}
+
+.score-up {
+    color: green;
+}
+
+.score-down {
+    color: red;
+
+}
+.flex-dir {
+flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
